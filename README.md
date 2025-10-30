@@ -16,7 +16,7 @@ Modo escuro e alto contraste
 Projeto hospedado no GitHub com commits organizados
 Versionamento utilizando Git
 🚀 Implantar
-Acesse o site publicado: 👉 https://alexandremagno.github.io/projeto-web-interativo/
+Acesse o site publicado: 👉 https://github.com/AlexandreMagnoInfSec/Projeto_novo_Interativo
 
 👨‍💻 Autor
 Alexandre Magno Mattos do Espírito Santo
